@@ -6,16 +6,6 @@ I'm a Computer Science student focused on building a career in **Data Analytics*
 
 I enjoy transforming raw data into actionable insights, building interactive dashboards, and developing intelligent systems powered by modern AI.
 
-## 🎯 Current Focus
-
-- 📊 Data Analysis with Python, SQL, Excel & Power BI
-- 📈 Building business dashboards and data visualizations
-- 🤖 Machine Learning using Scikit-learn
-- 🧠 Learning Deep Learning and LLMs
-- ⚡ Exploring Generative AI applications
-- 🤝 Building AI Agents and Agentic AI workflows
-- 🛠 Working on portfolio projects based on real-world datasets
-
 ## 🛠️ Tech Stack & Learning Journey
 
 ### 📊 Data Analysis & Visualization
@@ -38,4 +28,3 @@ I enjoy transforming raw data into actionable insights, building interactive das
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
----
