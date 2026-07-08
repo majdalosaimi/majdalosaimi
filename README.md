@@ -21,7 +21,7 @@ I am a Data Analyst driven by a curiosity to make sense of complex data and a pa
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-217346?style=for-the-badge&logo=microsoft-PowerBI&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🗄️ Advanced SQL & Web Scraping
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=font-awesome&logoColor=white)
