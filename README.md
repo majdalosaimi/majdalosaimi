@@ -1,16 +1,20 @@
-# 👋 Hi, I'm a Data Analyst & AI Learner!
+# 📈 Hi, I'm Majd Alotaibi
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-down" alt="Profile Views" />
-</p>
+## 🧠 About Me
 
-## 🚀 About Me
-I am a Data Analyst driven by a curiosity to make sense of complex data and a passion for integrating modern AI into the analytical lifecycle. My focus is on mastering foundational data workflows while actively learning how to leverage artificial intelligence to automate engineering and business pipelines.
+I'm a Computer Science student focused on building a career in **Data Analytics**, **Machine Learning**, and **Agentic AI**.
 
-* 📊 **Data Analyst** specialized in advanced data cleaning, exploratory analysis, and structural data modeling.
-* 🛡️ Experienced in handling real-world data systems with a strong emphasis on maintaining data integrity and absolute privacy protocols.
+I enjoy transforming raw data into actionable insights, building interactive dashboards, and developing intelligent systems powered by modern AI.
 
----
+## 🎯 Current Focus
+
+- 📊 Data Analysis with Python, SQL, Excel & Power BI
+- 📈 Building business dashboards and data visualizations
+- 🤖 Machine Learning using Scikit-learn
+- 🧠 Learning Deep Learning and LLMs
+- ⚡ Exploring Generative AI applications
+- 🤝 Building AI Agents and Agentic AI workflows
+- 🛠 Working on portfolio projects based on real-world datasets
 
 ## 🛠️ Tech Stack & Learning Journey
 
@@ -27,7 +31,11 @@ I am a Data Analyst driven by a curiosity to make sense of complex data and a pa
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=font-awesome&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-* **SQL Strengths:** Common Table Expressions (CTEs), window functions, and advanced deduplication logic.
-* **Excel Toolkit:** Power Pivot, DAX data modeling, and Solver for business optimization.
-* **Web Scraping:** BeautifulSoup, Selenium (Automated data extraction from e-commerce/booking platforms).
 
+## 🚀 Quick Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" alt="Github Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
