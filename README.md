@@ -24,7 +24,7 @@ I enjoy transforming raw data into actionable insights, building interactive das
 
 ## 🚀 Quick Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" alt="Github Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=majdalosaimi&show_icons=true&theme=react" alt="Github Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdalosaimi&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
