@@ -22,9 +22,3 @@ I enjoy transforming raw data into actionable insights, building interactive das
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 🚀 Quick Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=majdalosaimi&show_icons=true&theme=react" alt="Github Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdalosaimi&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
